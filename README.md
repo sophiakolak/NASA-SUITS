@@ -5,4 +5,4 @@ written by team RAWRLIONRAWR from Columbia University.
 Team Members:
 1. Sophia Kolak sdk2147
 2. Sarah Radway sar2236
-3. ...this could be you!
+3. Alexander Lindenbaum al4008
