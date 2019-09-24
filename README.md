@@ -6,3 +6,4 @@ Team Members:
 1. Sophia Kolak sdk2147
 2. Sarah Radway sar2236
 3. Alexander Lindenbaum al4008
+4. Tanner Treasure tt2717
