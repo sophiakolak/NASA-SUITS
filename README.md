@@ -7,3 +7,4 @@ Team Members:
 2. Sarah Radway sar2236
 3. Alexander Lindenbaum al4008
 4. Tanner Treasure tt2717
+5. Michael Minsch mwm2164
