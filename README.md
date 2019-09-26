@@ -1,4 +1,4 @@
-# NASA-SUITS Challenge
+ NASA-SUITS Challenge
 This repository will contain code for the NASA-SUITS challenge
 written by team RAWRLIONRAWR from Columbia University.
 
@@ -11,6 +11,7 @@ Team Members:
 6. Iris Celupica Liu icl2113
 
 
+<pre>
         _..._
       .'     '.      _
      /    .-""-\   _/ \
@@ -27,3 +28,5 @@ Team Members:
          /-._/-._/
   jgs    \   `\  \
           `-._/._/
+
+</pre>
