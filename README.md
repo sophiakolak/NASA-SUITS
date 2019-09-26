@@ -1,6 +1,6 @@
-# NASA-SUITS Challenge 
+# NASA-SUITS Challenge
 This repository will contain code for the NASA-SUITS challenge
-written by team RAWRLIONRAWR from Columbia University. 
+written by team RAWRLIONRAWR from Columbia University.
 
 Team Members:
 1. Sophia Kolak sdk2147
@@ -8,3 +8,4 @@ Team Members:
 3. Alexander Lindenbaum al4008
 4. Tanner Treasure tt2717
 5. Michael Minsch mwm2164
+6. Iris Celupica Liu icl2113
