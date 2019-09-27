@@ -10,7 +10,6 @@ Team Members:
 4. Tanner Treasure tt2717
 5. Michael Minsch mwm2164
 6. Iris Celupica Liu icl2113
-7. Dweej Patel dp3039
 
 
 <pre>
