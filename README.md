@@ -11,6 +11,7 @@ Team Members:
 5. Michael Minsch mwm2164
 6. Iris Celupica Liu icl2113
 7. Maggie Fei mf3093
+8. Dweej Patel dp3039
 
 <pre>
         _..._
