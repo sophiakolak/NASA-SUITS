@@ -15,6 +15,7 @@ Team Members:
 9. Jenny Cha jc5329
 10. Elijah Temwani Zulu ez2294
 11. Anastasia Ahani aa4277
+12. Gregory Schare gs3072
 
 <pre>
         _..._
