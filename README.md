@@ -10,7 +10,7 @@ Team Members:
 4. Tanner Treasure tt2717
 5. Michael Minsch mwm2164
 6. Iris Celupica Liu icl2113
-
+7. Maggie Fei mf3093
 
 <pre>
         _..._
