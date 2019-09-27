@@ -16,6 +16,7 @@ Team Members:
 10. Elijah Temwani Zulu ez2294
 11. Anastasia Ahani aa4277
 12. Gregory Schare gs3072
+13. James Slater jls2357
 
 <pre>
         _..._
