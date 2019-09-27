@@ -13,6 +13,7 @@ Team Members:
 7. Maggie Fei mf3092
 8. Dweej Patel dp3039
 9. Jenny Cha jc5329
+10. Elijah Temwani Zulu ez2294
 
 
 <pre>
