@@ -6,7 +6,7 @@ written by team RAWRLIONRAWR from Columbia University.
 Team Members:
 1. Sophia Kolak sdk2147
 2. Sarah Radway sar2236
-3. Jay Karp
+3. Jay Karp jlk2225
 4. Alexander Lindenbaum al4008
 5. Tanner Treasure tt2717
 6. Michael Minsch mwm2164
